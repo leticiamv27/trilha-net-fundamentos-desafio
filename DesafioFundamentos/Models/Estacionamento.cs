@@ -64,7 +64,7 @@ namespace DesafioFundamentos.Models
                 // *IMPLEMENTE AQUI*
                 for(int constante = 0; constante < veiculos.Count; constante++)
                 {
-                    Console.WriteLine(veiculos);
+                    Console.WriteLine($"{veiculos}");
                 }
             }
             else
